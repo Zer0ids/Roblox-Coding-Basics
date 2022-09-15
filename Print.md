@@ -16,7 +16,7 @@ print(message)
 ```
 
 If you want to make multiple messages, you should add either these:
-* + (a plus)
+* ➕ (a plus)
 * .. (two dots; recommended)
 * , (comma, tab-likewise character used)
 
